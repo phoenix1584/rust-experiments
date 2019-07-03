@@ -5,3 +5,5 @@ authors = ["phoenix1584 <phoenix1584@users.noreply.github.com>"]
 edition = "2018"
 
 [dependencies]
+time = "0.1.12"
+regex = "0.1.41"
